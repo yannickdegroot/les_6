@@ -1,4 +1,3 @@
-print()
 mijn_dictionary1 = {
     "merk" : "Mitsubishi",
     "model" : "Colt",
